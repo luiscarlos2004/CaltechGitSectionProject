@@ -1,2 +1,1 @@
 # CaltechGitSectionProject
-# CaltechGitSectionProject
